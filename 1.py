@@ -2,12 +2,12 @@
 import os
 import shutil
 
-copyFromFolder = 'meia'
-newdomain_name = 'digimate'
+copyFromFolder = 'name_of_existing_folder'
+newdomain_name = 'name_of_new_folder_where_you_want_to_copy_files'
 
-fodlerpath = '/var/www/html/ra_meia/CIR/application/modules'
-csspath = '/var/www/html/ra_meia/CIR/assets/css'
-jspath = '/var/www/html/ra_meia/CIR/assets/js'
+fodlerpath = '/var/www/html/old_project_name/CIR/application/modules'
+csspath = '/var/www/html/old_project_name/CIR/assets/css'
+jspath = '/var/www/html/new_project_name/CIR/assets/js'
 
 
 
